@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://supatmanmainsgp.github.io/sgp-1/sitemap.xml
